@@ -10,7 +10,7 @@ Welcome to my project! This repository contains Java code that sorts bars using 
 
 ## Getting Started
 1. Clone the repository to your local machine using your favorite IDE.
-2. Run the project.
+2. Compile and run the project.
 
 ## Usage
 - Upon running the project you should see a tab open with a bunch of grey bars inside.<img width="908" alt="Screenshot 2023-08-07 001432" src="https://github.com/anewkir/Sorting-Visualiser/assets/125839472/bfd19d5e-bf71-4574-bc12-0deab2d583be">
