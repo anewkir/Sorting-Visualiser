@@ -14,16 +14,33 @@ Welcome to my project! This repository contains Java code that sorts bars using 
 
 ## Usage
 - Upon running the project you should see a tab open with a bunch of grey bars inside.
+   <br>
+  <picture>
     <img width="908" alt="Screenshot 2023-08-07 001432" src="https://github.com/anewkir/Sorting-Visualiser/assets/125839472/bfd19d5e-bf71-4574-bc12-0deab2d583be">
+    </picture>
+    </br>
 
 - There will be a button with a dropdown list to select an algorithm.
+  <br>
+  <picture>
     <img width="254" alt="Screenshot 2023-08-07 001750" src="https://github.com/anewkir/Sorting-Visualiser/assets/125839472/030a01ba-93b5-4d28-81fc-d60d58d26845">
+    </picture>
+    </br>
 
 - Select your favorite and watch the bars get sorted!
+  <br>
+  <picture>
     <img width="914" alt="Screenshot 2023-08-07 001607" src="https://github.com/anewkir/Sorting-Visualiser/assets/125839472/3d184b2f-e7f1-4843-a12d-75437f0f6cbb">
+     </picture>
+    </br>
+
 
 - Once It is finished sorting click the shuffle button and repeat!
+   <br>
+  <picture>
     <img width="196" alt="Screenshot 2023-08-07 010848" src="https://github.com/anewkir/Sorting-Visualiser/assets/125839472/1a646ec1-c019-4f57-9a08-dbc5b25715c7">
+     </picture>
+    </br>
 
 
 
