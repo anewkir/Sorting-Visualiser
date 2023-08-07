@@ -8,7 +8,7 @@ import javax.swing.*;
 /*
 This is the merge sort algorithm
 
-This is an in place merge sort as creating a ton of different ArrayData classes.
+This is an in place merge sort as I feel that is easier to visualize.
 
  */
 public class MergeSort {

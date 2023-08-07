@@ -46,7 +46,7 @@ public class QuickSort {
 
 
     };
-        quickSort.execute();;
+        quickSort.execute();
 
     }
 
@@ -63,10 +63,13 @@ public class QuickSort {
 
             arrayData.setTravDex(low);
             arrayData.setCurrDex(high);
-            Thread.sleep(50);
             arrayData.repaint();
 
+            Thread.sleep(20);
+            arrayData.repaint();
             quickSort(arrayData, low, partition -1);
+            Thread.sleep(20);
+            arrayData.repaint();
             quickSort(arrayData, partition + 1, high);
         }
 
@@ -107,7 +110,7 @@ public class QuickSort {
         // setting traversal index and current index to allow algorithm to repaint the jpannel
         arrayData.setTravDex(i);
         arrayData.setCurrDex(high);
-        Thread.sleep(50);
+        Thread.sleep(100);
         arrayData.repaint();
         return (i+1);
     }
